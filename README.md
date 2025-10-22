@@ -8,6 +8,9 @@
 **[Electron Redstone CPU](https://github.com/counterspecies/electron)**: A custom 8-bit CPU built from the ground up in Minecraft. Complete with a custom ISA, assembler, and emulator all written in Rust.
 
 
+**[The AI Roundtable](https://github.com/counterspecies/cd_ai_theairoundtable)**: A custom 8-bit CPU built from the ground up in Minecraft. Complete with a custom ISA, assembler, and emulator all written in Rust.
+
+
 
 
 ### My Toolkit
