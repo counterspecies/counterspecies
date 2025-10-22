@@ -1,8 +1,5 @@
 # Hello, I'm Eli
 
-My work is focused on building fast, reliable, and scalable systems, primarily in Rust.
-
----
 
 ### My Projects
 
