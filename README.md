@@ -6,9 +6,11 @@ My work is focused on building fast, reliable, and scalable systems, primarily i
 
 ### My Projects
 
-**[Until Every Cage is Empty](https://github.com/counterspecies/until-every-cage-is-empty)**: A full-stack, open-source global mapping tool for animal rights. Built with a high-performance Rust (Axum) backend and Leaflet.js frontend, it serves over 38,500 data points to thosands of activists, journalists, and researchers worldwide.
+**[Until Every Cage is Empty](https://github.com/counterspecies/UntilEveryCage)**: A full-stack, open-source global mapping tool for animal rights. Built with a high-performance Rust (Axum) backend and Leaflet.js frontend, it serves over 38,500 data points to thosands of activists, journalists, and researchers worldwide.
 
-**[Electron Redstone CPU](https://github.com/counterspecies/electron-redstone-cpu)**: A custom 8-bit CPU built from the ground up in Minecraft. Complete with a custom ISA, assembler, and emulator all written in Rust.
+**[Electron Redstone CPU](https://github.com/counterspecies/electron)**: A custom 8-bit CPU built from the ground up in Minecraft. Complete with a custom ISA, assembler, and emulator all written in Rust.
+
+
 
 
 ### My Toolkit
