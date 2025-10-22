@@ -1,4 +1,4 @@
-### Hey, I'm Eli. 👋
+### Hey, I'm Eli.
 
 I'm a mission-driven software engineer using technology to build open-source tools that have a real-world impact.
 
@@ -13,7 +13,7 @@ My work is focused on building fast, reliable, and scalable systems, primarily i
 **[Electron Redstone CPU](https://github.com/counterspecies/electron-redstone-cpu)**: A custom 8-bit CPU built from the ground up in Minecraft. Complete with a custom ISA, assembler, and emulator all written in Rust.
 
 
-### 🛠️ My Toolkit
+### My Toolkit
 
 | Languages | Technologies & Frameworks |
 | :--- | :--- |
