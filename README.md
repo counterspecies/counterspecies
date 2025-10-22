@@ -1,8 +1,6 @@
-### Hey, I'm Eli.
+# Hello, I'm Eli
 
-I'm a mission-driven software engineer using technology to build open-source tools that have a real-world impact.
-
-My work is focused on building fast, reliable, and scalable systems, primarily in Rust. I build things that matter, from global mapping tools for animal rights to low-level computer architecture.
+My work is focused on building fast, reliable, and scalable systems, primarily in Rust.
 
 ---
 
@@ -30,5 +28,7 @@ My work is focused on building fast, reliable, and scalable systems, primarily i
 * **LinkedIn:** [linkedin.com/in/eli-perez-782714315](https://linkedin.com/in/eli-perez-782714315)
 * **My Rust Crates:** [crates.io/users/counterspecies](https://crates.io/users/counterspecies)
 * **Email:** eliperez0024@gmail.com
+
+### Cheers!
 
 ---
