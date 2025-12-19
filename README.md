@@ -16,7 +16,7 @@ A full-stack, open-source geospatial platform for animal rights.
 * **Overview:** A serverless mapping application to visualize fish-friendly dive locations.
 * **Tech:** End-to-end engineered using **Cloudflare Workers** (serverless backend) and Google Sheets API integration.
 
-**[RISC-V Inspired CPU & Toolchain](https://github.com/eliperez-dev)/electron)**
+**[RISC-V Inspired CPU & Toolchain](https://github.com/eliperez-dev/electron)**
 * **Core:** Designed a **4-stage pipelined, 8-bit CPU** from first principles in a pure logic-gate environment.
 * **Toolchain:** Developed a custom assembler, emulator, and VS Code extension from scratch in **Rust** for a novel Turing-complete ISA.
 
